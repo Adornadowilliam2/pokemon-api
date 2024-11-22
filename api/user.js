@@ -101,28 +101,28 @@ export default function handler(req, res) {
       color: ["green", "lightgreen"],
     },
     {
-      name: "Beedrill",
+      name: "beedrill",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Beedrill.png?raw=true",
       type: "bug",
       color: ["green", "lightgreen"],
     },
     {
-      name: "Pidgey",
+      name: "pidgey",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgey.png?raw=true",
       type: "flying",
       color: ["gray"],
     },
     {
-      name: "Pidgeotto",
+      name: "pidgeotto",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeotto.png?raw=true",
       type: "flying",
       color: ["gray"],
     },
     {
-      name: "Pidgeot",
+      name: "pidgeot",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeot.png?raw=true",
       type: "flying",
