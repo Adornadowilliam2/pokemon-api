@@ -7,6 +7,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Bulbasaur.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "violet"],
+      weakness: "fire",
     },
     {
       name: "ivysaur",
@@ -14,6 +15,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ivysaur.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "violet"],
+      weakness: "fire",
     },
     {
       name: "venusaur",
@@ -21,6 +23,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Venusaur.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "violet"],
+      weakness: "fire",
     },
     {
       name: "charmander",
@@ -28,6 +31,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Charmander.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "orangered"],
+      weakness: "water",
     },
     {
       name: "charmeleon",
@@ -35,6 +39,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Charmeleon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "orangered"],
+      weakness: "water",
     },
     {
       name: "charizard",
@@ -42,6 +47,7 @@ export default function handler(req, res) {
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Charizard.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "orangered"],
+      weakness: "water",
     },
     {
       name: "squirtle",
@@ -51,6 +57,7 @@ export default function handler(req, res) {
       environment:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["#007bff", "lightblue"],
+      weakness: "grass/electric",
     },
     {
       name: "wartortle",
