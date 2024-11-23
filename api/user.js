@@ -780,9 +780,81 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dewgong.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "aqua"],
+      weakness: "Electric",
+      resistance: "Water",
+    },
+    {
+      name: "grimer",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Grimer.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "muk",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Muk.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "shellder",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Shellder.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Electric",
       resistance: "Water",
+    },
+    {
+      name: "cloyster",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Cloyster.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "aqua"],
+      weakness: "Electric",
+      resistance: "Water",
+    },
+    {
+      name: "gastly",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Gastly.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "haunter",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Haunter.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "gengar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Gengar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "onix",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Onix.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/rock.png?raw=true",
+      color: ["brown", "lightbrown"],
+      weakness: "Fighting",
+      resistance: "Rock",
     },
   ];
   res.status(200).json(pokemonInfo);
