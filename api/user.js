@@ -559,6 +559,132 @@ export default function handler(req, res) {
       weakness: "Electric",
       resistance: "Fire",
     },
+    {
+      name: "abra",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Abra.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["pink", "lightpink"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "kadabra",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kadabra.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["pink", "lightpink"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "alakazam",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Alakazam.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["pink", "lightpink"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "machop",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machop.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "machoke",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machoke.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "machamp",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machamp.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "bellsprout",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Bellsprout.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "weepinbell",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Weepinbell.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "victreebel",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Victreebel.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "tentacool",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tentacool.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "purple"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "tentacruel",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tentacruel.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "purple"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "geodude",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Geodude.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["#915121", "#b88e6f"],
+      weakness: "Steel",
+      resistance: "Electric",
+    },
+    {
+      name: "graveler",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Graveler.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["#915121", "#b88e6f"],
+      weakness: "Steel",
+      resistance: "Electric",
+    },
+    {
+      name: "golem",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Golem.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["#915121", "#b88e6f"],
+      weakness: "Steel",
+      resistance: "Electric",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
