@@ -163,6 +163,96 @@ export default function handler(req, res) {
       weakness: "Electric",
       resistance: "Normal",
     },
+    {
+      name: "Rattata",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Rattata.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Fighting",
+      resistance: "Ghost",
+    },
+    {
+      name: "Raticate",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raticate.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Fighting",
+      resistance: "Ghost",
+    },
+    {
+      name: "Spearow",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Spearow.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Electric",
+      resistance: "Ghost",
+    },
+    {
+      name: "Fearow",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Fearow.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Electric",
+      resistance: "Ghost",
+    },
+    {
+      name: "Ekans",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ekans.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "Arbok",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Arbok.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "Pikachu",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pikachu.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["#fac000", "lightyellow"],
+      weakness: "Ground",
+      resistance: "Electric",
+    },
+    {
+      name: "Raichu",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raichu.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["#fac000", "lightyellow"],
+      weakness: "Ground",
+      resistance: "Electric",
+    },
+    {
+      name: "Sandshrew",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Sandshrew.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["#915121", "#b88e6f"],
+      weakness: "Steel",
+      resistance: "Electric",
+    },
+    {
+      name: "Sandslash",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Sandslash.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["#915121", "#b88e6f"],
+      weakness: "Steel",
+      resistance: "Electric",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
