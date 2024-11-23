@@ -227,7 +227,7 @@ export default function handler(req, res) {
       resistance: "Electric",
     },
     {
-      name: "Raichu",
+      name: "raichu",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raichu.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
@@ -276,7 +276,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoqueen.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
-      color: ["#b88dd", "#b88e6f"],
+      color: ["#b884dd", "#b88e6f"],
       weakness: "Psychic",
       resistance: "Bug",
     },
@@ -303,7 +303,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoking.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
-      color: ["#b88dd", "#b88e6f"],
+      color: ["#b884dd", "#b88e6f"],
       weakness: "Psychic",
       resistance: "Bug",
     },
