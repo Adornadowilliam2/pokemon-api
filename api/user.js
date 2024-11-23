@@ -50,21 +50,21 @@ export default function handler(req, res) {
       type: "water",
       environment:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
-      color: ["blue", "lightblue"],
+      color: ["#007bff", "lightblue"],
     },
     {
       name: "wartortle",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Wartotle.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
-      color: ["blue", "lightblue"],
+      color: ["#007bff", "lightblue"],
     },
     {
       name: "blastoise",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Blastoise.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
-      color: ["blue", "lightblue"],
+      color: ["#007bff", "lightblue"],
     },
     {
       name: "caterpie",
