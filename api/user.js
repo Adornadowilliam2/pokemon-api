@@ -16,7 +16,7 @@ export default function handler(req, res) {
       color: ["green", "violet"],
     },
     {
-      name: "venosaur",
+      name: "venusaur",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Venusaur.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
@@ -113,21 +113,21 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgey.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray"],
+      color: ["gray", "lightgray"],
     },
     {
       name: "pidgeotto",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeotto.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray"],
+      color: ["gray", "lightgray"],
     },
     {
       name: "pidgeot",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeot.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray"],
+      color: ["gray", "lightgray"],
     },
   ];
   res.status(200).json(pokemonInfo);
