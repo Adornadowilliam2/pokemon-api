@@ -253,6 +253,177 @@ export default function handler(req, res) {
       weakness: "Steel",
       resistance: "Electric",
     },
+    {
+      name: "nidoran",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoran.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "nidorina",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidorina.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "nidoqueen",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoqueen.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#b88dd", "#b88e6f"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "nidoran(male)",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoran(Male).png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "nidorino",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidorino.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "nidoking",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoking.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#b88dd", "#b88e6f"],
+      weakness: "Psychic",
+      resistance: "Bug",
+    },
+    {
+      name: "clefairy",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Clefairy.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["pink", "lightpink"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "clefable",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Clefable.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["pink", "lightpink"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "vulpix",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Vulpix.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "lightred"],
+      weakness: "Water",
+      resistance: "Fire",
+    },
+    {
+      name: "ninetales",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ninetales.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "lightred"],
+      weakness: "Water",
+      resistance: "Fire",
+    },
+    {
+      name: "jigglypuff",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Jigglypuff.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Fighting",
+      resistance: "Dark",
+    },
+    {
+      name: "wigglytuff",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Wigglytuff.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "lightgray"],
+      weakness: "Fighting",
+      resistance: "Dark",
+    },
+    {
+      name: "zubat",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Zubat.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "golbat",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Golbat.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Fighting",
+    },
+    {
+      name: "oddish",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Oddish.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "gloom",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Gloom.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "vileplume",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Vileplume.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "purple"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "paras",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Paras.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "parasect",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Parasect.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
