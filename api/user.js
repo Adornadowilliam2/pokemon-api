@@ -283,7 +283,7 @@ export default function handler(req, res) {
     {
       name: "nidoran(male)",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoran(Male).png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Nidoran(male).png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
       color: ["#5e2a84", "#b884dd"],
       weakness: "Psychic",
