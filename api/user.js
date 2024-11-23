@@ -164,7 +164,7 @@ export default function handler(req, res) {
       resistance: "Normal",
     },
     {
-      name: "Rattata",
+      name: "rattata",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Rattata.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
@@ -173,7 +173,7 @@ export default function handler(req, res) {
       resistance: "Ghost",
     },
     {
-      name: "Raticate",
+      name: "raticate",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raticate.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
@@ -182,7 +182,7 @@ export default function handler(req, res) {
       resistance: "Ghost",
     },
     {
-      name: "Spearow",
+      name: "spearow",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Spearow.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
@@ -191,7 +191,7 @@ export default function handler(req, res) {
       resistance: "Ghost",
     },
     {
-      name: "Fearow",
+      name: "fearow",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Fearow.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
@@ -200,7 +200,7 @@ export default function handler(req, res) {
       resistance: "Ghost",
     },
     {
-      name: "Ekans",
+      name: "ekans",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ekans.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
@@ -209,7 +209,7 @@ export default function handler(req, res) {
       resistance: "Bug",
     },
     {
-      name: "Arbok",
+      name: "arbok",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Arbok.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/poison.png?raw=true",
@@ -218,7 +218,7 @@ export default function handler(req, res) {
       resistance: "Bug",
     },
     {
-      name: "Pikachu",
+      name: "pikachu",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pikachu.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
@@ -236,7 +236,7 @@ export default function handler(req, res) {
       resistance: "Electric",
     },
     {
-      name: "Sandshrew",
+      name: "sandshrew",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Sandshrew.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
@@ -245,7 +245,7 @@ export default function handler(req, res) {
       resistance: "Electric",
     },
     {
-      name: "Sandslash",
+      name: "sandslash",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Sandslash.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
