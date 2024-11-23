@@ -685,6 +685,105 @@ export default function handler(req, res) {
       weakness: "Steel",
       resistance: "Electric",
     },
+    {
+      name: "ponyta",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ponyta.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "orange"],
+      weakness: "Water",
+      resistance: "Ground",
+    },
+    {
+      name: "rapidash",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Rapidash.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "orange"],
+      weakness: "Water",
+      resistance: "Ground",
+    },
+    {
+      name: "slowpoke",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Slowpoke.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "slowbro",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Slowbro.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "magnemite",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Magnemite.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["yellow", "lightyellow"],
+      weakness: "Grass",
+      resistance: "Water",
+    },
+    {
+      name: "magneton",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Magneton.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["yellow", "lightyellow"],
+      weakness: "Grass",
+      resistance: "Water",
+    },
+    {
+      name: "farfetch'd",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Farfetchd.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Flying",
+    },
+    {
+      name: "doduo",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Doduo.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Flying",
+    },
+    {
+      name: "dodrio",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dodrio.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Psychic",
+      resistance: "Flying",
+    },
+    {
+      name: "seel",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Seel.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Water",
+    },
+    {
+      name: "dewgong",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dewgong.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Water",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
