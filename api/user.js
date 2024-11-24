@@ -851,7 +851,7 @@ export default function handler(req, res) {
       name: "onix",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Onix.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/rock.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
       color: ["brown", "burlywood"],
       weakness: "Fighting",
       resistance: "Rock",
