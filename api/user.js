@@ -1185,7 +1185,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ditto.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["gray", "lightgray"],
       weakness: "Fighting",
       resistance: "Normal",
     },
@@ -1194,7 +1194,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Eevee.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["gray", "lightgray"],
       weakness: "Fighting",
       resistance: "Normal",
     },
@@ -1347,7 +1347,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mewtwo.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["pink", "lightpink"],
       weakness: "Ghost",
       resistance: "Normal",
     },
@@ -1356,7 +1356,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mew.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["pink", "lightpink"],
       weakness: "Ghost",
       resistance: "Normal",
     },
