@@ -742,10 +742,10 @@ export default function handler(req, res) {
     {
       name: "farfetch'd",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Farfetchd.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Farfetch'd.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
-      weakness: "Psychic",
+      color: ["gray", "aliceblue"],
+      weakness: "Fighting",
       resistance: "Flying",
     },
     {
@@ -753,8 +753,8 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Doduo.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
-      weakness: "Psychic",
+      color: ["gray", "aliceblue"],
+      weakness: "Fighting",
       resistance: "Flying",
     },
     {
@@ -762,8 +762,8 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dodrio.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
-      weakness: "Psychic",
+      color: ["gray", "aliceblue"],
+      weakness: "Fighting",
       resistance: "Flying",
     },
     {
