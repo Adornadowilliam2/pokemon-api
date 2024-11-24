@@ -1354,7 +1354,7 @@ export default function handler(req, res) {
     {
       name: "mew",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mew.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mewing.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Ghost",
