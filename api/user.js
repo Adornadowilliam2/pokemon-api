@@ -1216,6 +1216,150 @@ export default function handler(req, res) {
       weakness: "Ground",
       resistance: "Steel",
     },
+    {
+      name: "flareon",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Flareon.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "orange"],
+      weakness: "Water",
+      resistance: "Steel",
+    },
+    {
+      name: "porygon",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Porygon.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "omanyte",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Omanyte.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "burlywood"],
+      weakness: "Grass",
+      resistance: "Fire",
+    },
+    {
+      name: "omastar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Omastar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "burlywood"],
+      weakness: "Grass",
+      resistance: "Fire",
+    },
+    {
+      name: "kabuto",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kabuto.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "burlywood"],
+      weakness: "Grass",
+      resistance: "Fire",
+    },
+    {
+      name: "kabutops",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kabutops.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "burlywood"],
+      weakness: "Grass",
+      resistance: "Fire",
+    },
+    {
+      name: "aerodactyl",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Aerodactyl.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["brown", "burlywood"],
+      weakness: "electric",
+      resistance: "Fire",
+    },
+    {
+      name: "snorlax",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Snorlax.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "articuno",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Articuno.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "aqua"],
+      weakness: "Aqua",
+      resistance: "Normal",
+    },
+    {
+      name: "zapdos",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Zapdos.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ground",
+      resistance: "Steel",
+    },
+    {
+      name: "moltres",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Moltres.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "orange"],
+      weakness: "Water",
+      resistance: "Steel",
+    },
+    {
+      name: "dratini",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dratini.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dragon.png?raw=true",
+      color: ["crimson", "red"],
+      weakness: "Ice",
+      resistance: "Steel",
+    },
+    {
+      name: "dragonair",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dragonair.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dragon.png?raw=true",
+      color: ["crimson", "red"],
+      weakness: "Ice",
+      resistance: "Steel",
+    },
+    {
+      name: "dragonite",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Dragonite.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dragon.png?raw=true",
+      color: ["crimson", "red"],
+      weakness: "Ice",
+      resistance: "Steel",
+    },
+    {
+      name: "mewtwo",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mewtwo.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ghost",
+      resistance: "Normal",
+    },
+    {
+      name: "mew",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mew.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ghost",
+      resistance: "Normal",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
