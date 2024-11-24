@@ -1126,6 +1126,96 @@ export default function handler(req, res) {
       weakness: "Ground",
       resistance: "Steel",
     },
+    {
+      name: "magmar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Magmar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "orange"],
+      weakness: "Water",
+      resistance: "Steel",
+    },
+    {
+      name: "pinsir",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pinsir.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "tauros",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tauros.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "magikarp",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Magikarp.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "gyarados",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Gyarados.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "lapras",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Lapras.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "ditto",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ditto.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "eevee",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Eevee.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "vaporeon",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Vaporeon.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "jolteon",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Jolteon.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ground",
+      resistance: "Steel",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
