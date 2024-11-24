@@ -87,7 +87,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Caterpie.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -96,7 +96,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Metapod.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -105,7 +105,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Butterfree.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -114,7 +114,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Weedle.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -123,7 +123,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kakuna.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -132,7 +132,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Beedrill.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["green", "lightgreen"],
+      color: ["#91a119", "lightgreen"],
       weakness: "Fire",
       resistance: "Normal",
     },
@@ -1008,6 +1008,123 @@ export default function handler(req, res) {
       color: ["brown", "burlywood"],
       weakness: "Water",
       resistance: "Normal",
+    },
+    {
+      name: "chansey",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Chansey.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "tangela",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tangela.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "kangaskhan",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kangaskhan.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "horsea",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Horsea.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Water",
+    },
+    {
+      name: "seadra",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Seadra.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "purple"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "goldeen",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Goldeen.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "seaking",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Seaking.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "staryu",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Staryu.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "starmie",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Starmie.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Electric",
+      resistance: "Fire",
+    },
+    {
+      name: "mr-mime",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mr_Mime.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ghost",
+      resistance: "Fighting",
+    },
+    {
+      name: "scyther",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Scyther.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Water",
+    },
+    {
+      name: "jynx",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Jynx.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Fire",
+      resistance: "Fighting",
+    },
+    {
+      name: "electabuzz",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Electabuzz.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["#5e2a84", "#b884dd"],
+      weakness: "Ground",
+      resistance: "Steel",
     },
   ];
   res.status(200).json(pokemonInfo);
