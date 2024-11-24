@@ -1351,15 +1351,7 @@ export default function handler(req, res) {
       weakness: "Ghost",
       resistance: "Normal",
     },
-    {
-      name: "mew",
-      image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mewing.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
-      color: ["pink", "lightpink"],
-      weakness: "Ghost",
-      resistance: "Normal",
-    },
+
   ];
   res.status(200).json(pokemonInfo);
 }
