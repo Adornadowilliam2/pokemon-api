@@ -1864,6 +1864,394 @@ export default function handler(req, res) {
       weakness: "Fire",
       resistance: "Grass",
     },
+    {
+      name: "snubbull",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/snubbull.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fairy.png?raw=true",
+      color: ["pink", "hotpink"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "granbull",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/granbull.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fairy.png?raw=true",
+      color: ["pink", "hotpink"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "qwilfish",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/qwilfish.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "purple"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "scizor",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/scizor.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "shuckle",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/shuckle.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "heracross",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/heracross.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "#5e2a84"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "sneasel",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/sneasel.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dark.png?raw=true",
+      color: ["lightgreen", "brown"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "teddiursa",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/teddiursa.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["lightgreen", "brown"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "ursaring",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/ursaring.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["lightgreen", "brown"],
+      weakness: "Fighting",
+      resistance: "Normal",
+    },
+    {
+      name: "slugma",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/slugma.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "#ff0000"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "magcargo",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/magcargo.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "#ff0000"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "swinub",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/swinub.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ice.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "piloswine",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/piloswine.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ice.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "corsola",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/corsola.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "remoraid",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/remoraid.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "octillery",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/octillery.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "delibird",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/delibird.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ice.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "mantine",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/mantine.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "skarmory",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/skarmory.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/steel.png?raw=true",
+      color: ["silver", "#ccc"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "houndour",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/houndour.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dark.png?raw=true",
+      color: ["black", "red"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "houndoom",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/houndoom.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dark.png?raw=true",
+      color: ["black", "red"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+
+    {
+      name: "kingdra",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/kingdra.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "lightblue"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "phanpy",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/phanpy.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["brown"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "donphan",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/donphan.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["brown"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "porygon2",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/porygon2.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["white", "#ccc"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "stantler",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/stantler.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "smeargle",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/smeargle.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "tyrogue",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/tyrogue.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "hitmontop",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/hitmonchan.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "smoochum",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/smoochum.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ice.png?raw=true",
+      color: ["blue", "hotpink"],
+      weakness: "Electric",
+      resistance: "Grass",
+    },
+    {
+      name: "elekid",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/elekid.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["yellow", "hotpink"],
+      weakness: "Electric",
+      resistance: "Grass",
+    },
+    {
+      name: "magby",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/magby.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["red", "#ff433a"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "miltank",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/miltank.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "blissey",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/blissey.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
+      color: ["gray", "#ccc"],
+      weakness: "Fighting",
+      resistance: "Flying",
+    },
+    {
+      name: "raikou",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/raikou.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
+      color: ["yellow", "hotpink"],
+      weakness: "Ground",
+      resistance: "Grass",
+    },
+    {
+      name: "entei",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/entei.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "#ff0000"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "suicune",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/suicune.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
+      color: ["blue", "#007bff"],
+      weakness: "Electric",
+      resistance: "Grass",
+    },
+    {
+      name: "lavitar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/lavitar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["brown"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "pupitar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/pupitar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["brown"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "tyranitar",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/tyranitar.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
+      color: ["brown"],
+      weakness: "Water",
+      resistance: "Flying",
+    },
+    {
+      name: "lugia",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/lugia.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
+      color: ["hotpink", "#9cadf7"],
+      weakness: "Electric",
+      resistance: "Grass",
+    },
+    {
+      name: "ho-oh",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/ho-oh.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
+      color: ["red", "#9cadf7"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
+    {
+      name: "celebi",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/celebi.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "hotpink"],
+      weakness: "Water",
+      resistance: "Grass",
+    },
   ];
   res.status(200).json(pokemonInfo);
 }
