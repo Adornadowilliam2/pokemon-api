@@ -1850,7 +1850,7 @@ export default function handler(req, res) {
       name: "gligar",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/gligar.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
       color: ["brown", "#ccc"],
       weakness: "Fire",
       resistance: "Grass",
