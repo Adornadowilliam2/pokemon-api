@@ -1851,7 +1851,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/gligar.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["brown", "#ccc"],
       weakness: "Fire",
       resistance: "Grass",
     },
@@ -1860,7 +1860,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/steelix.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/steel.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "brown"],
       weakness: "Fire",
       resistance: "Grass",
     },
