@@ -2212,7 +2212,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/pupitar.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
-      color: ["brown"],
+      color: ["brown","lightbrown"],
       weakness: "Water",
       resistance: "Flying",
     },
@@ -2221,7 +2221,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/tyranitar.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
-      color: ["brown"],
+      color: ["brown","lightbrown"],
       weakness: "Water",
       resistance: "Flying",
     },
@@ -2230,7 +2230,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/lugia.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
-      color: ["hotpink", "#9cadf7"],
+      color: ["hotpink  ", "#9cadf7"],
       weakness: "Electric",
       resistance: "Grass",
     },
