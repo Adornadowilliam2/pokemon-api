@@ -2371,6 +2371,14 @@ export default function handler(req, res) {
       color: ["green", "lightgreen"],
       weakness: "Electric",
       resistance: "Grass",
+    },
+    {
+      name:"beautifly",
+      image:"https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/beautifly.png?raw=true",
+      type:"https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Electric",
+      resistance: "Grass",
     }
   ];
   res.status(200).json(pokemonInfo);
