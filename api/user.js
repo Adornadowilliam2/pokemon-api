@@ -2355,6 +2355,22 @@ export default function handler(req, res) {
       color: ["brown", "#ccc"],
       weakness: "Electric",
       resistance: "Grass",
+    },
+    {
+      name:"wurmple",
+      image:"https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/wurmple.png?raw=true",
+      type:"https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Electric",
+      resistance: "Grass",
+    },
+    {
+      name:"silcoon",
+      image:"https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/silcoon.png?raw=true",
+      type:"https://github.com/Adornadowilliam2/pokemon-api/blob/energy/bug.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Electric",
+      resistance: "Grass",
     }
   ];
   res.status(200).json(pokemonInfo);
