@@ -2203,7 +2203,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/lavitar.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/ground.png?raw=true",
-      color: ["brown"],
+      color: ["brown","lightbrown"],
       weakness: "Water",
       resistance: "Flying",
     },
