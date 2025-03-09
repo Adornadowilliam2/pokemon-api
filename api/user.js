@@ -1806,7 +1806,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/wobbuffet.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/dark.png?raw=true",
-      color: ["black", "darkgray"],
+      color: ["violet",],
       weakness: "Bug",
       resistance: "Ghost",
     },
