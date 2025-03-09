@@ -1302,7 +1302,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Zapdos.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["yellow", "lightyellow"],
       weakness: "Ground",
       resistance: "Steel",
     },
