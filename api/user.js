@@ -2158,7 +2158,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Teddiursa.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -2168,7 +2168,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Ursaring.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -2328,7 +2328,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Porygon2.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -2338,7 +2338,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Stantler.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -2348,7 +2348,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Smeargle.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
