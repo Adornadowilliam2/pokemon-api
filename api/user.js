@@ -656,7 +656,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machop.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+      color: ["brown", "lightbrown"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
@@ -666,7 +666,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machoke.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+            color: ["brown", "lightbrown"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
@@ -676,7 +676,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machamp.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["#5e2a84", "#b884dd"],
+   color: ["brown", "lightbrown"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
@@ -2068,7 +2068,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Gligar.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["orange", "lightorange"],
+       color: ["brown", "wheat"],
       weakness: "Water",
       resistance: "Fighting",
       type2: ["ground", "flying"],
