@@ -1058,7 +1058,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Hitmonlee.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["orange", "lightorange"],
+      color: ["brown", "burlywood"],
       weakness: "Psychic",
       resistance: "Normal",
       type2: ["fighting"],
@@ -1068,7 +1068,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Hitmonchan.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["orange", "lightorange"],
+      color: ["brown", "burlywood"],
       weakness: "Psychic",
       resistance: "None",
       type2: ["fighting"],
