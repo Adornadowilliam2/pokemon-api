@@ -1060,7 +1060,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
       color: ["orange", "lightorange"],
       weakness: "Psychic",
-      resistance: "None",
+      resistance: "Normal",
       type2: ["fighting"],
     },
     {
@@ -1090,7 +1090,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/darkness.png?raw=true",
       color: ["purple", "mediumpurple"],
       weakness: "Psychic",
-      resistance: "None",
+      resistance: "Steel",
       type2: ["poison"],
     },
     {
@@ -1100,7 +1100,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/darkness.png?raw=true",
       color: ["purple", "mediumpurple"],
       weakness: "Psychic",
-      resistance: "None",
+      resistance: "Steel",
       type2: ["poison"],
     },
     {
@@ -1160,7 +1160,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1170,7 +1170,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1180,7 +1180,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1190,7 +1190,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1200,7 +1200,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1210,7 +1210,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water", "psychic"],
     },
     {
@@ -1220,7 +1220,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Ghost",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["psychic", "fairy"],
     },
     {
@@ -1240,7 +1240,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Metal",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["ice", "psychic"],
     },
     {
@@ -1428,7 +1428,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Snorlax.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1510,7 +1510,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Ghost",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["psychic"],
     },
     {
@@ -1580,7 +1580,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1590,7 +1590,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1600,7 +1600,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1608,7 +1608,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Sentret.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1618,7 +1618,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Furret.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1730,7 +1730,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Metal",
-      resistance: "None",
+      resistance: "Dark",
       type2: ["fairy"],
     },
     {
@@ -1740,7 +1740,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Metal",
-      resistance: "None",
+      resistance: "Dark",
       type2: ["normal", "fairy"],
     },
     {
@@ -1830,7 +1830,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water", "fairy"],
     },
     {
@@ -1840,7 +1840,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water", "fairy"],
     },
     {
@@ -1860,7 +1860,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
-      resistance: "None",
+      resistance: "Fire",
       type2: ["water"],
     },
     {
@@ -1898,9 +1898,9 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Aipom.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
-      resistance: "None",
+      resistance: "Psychic",
       type2: ["normal"],
     },
     {
@@ -1960,7 +1960,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Psychic",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["psychic"],
     },
     {
@@ -2020,7 +2020,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Ghost",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["psychic"],
     },
     {
@@ -2030,7 +2030,7 @@ export default function handler(req, res) {
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/psychic.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Darkness",
-      resistance: "None",
+      resistance: "Fighting",
       type2: ["normal", "psychic"],
     },
     {
