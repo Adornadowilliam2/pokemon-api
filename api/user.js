@@ -2656,13 +2656,24 @@ export default function handler(req, res) {
     {
       name: "silcoon",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Silcoon.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/images/Silcoon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
       resistance: "Fighting",
       type2: ["bug"],
     },
+    {
+      name: "beautifly",
+      image:
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/images/Beautifly.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
+      color: ["green", "lightgreen"],
+      weakness: "Fire",
+      resistance: "Fighting",
+      type2: ["bug"],
+    },
+
   ];
   res.status(200).json(pokemonInfo);
 }
