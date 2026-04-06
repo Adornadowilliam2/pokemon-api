@@ -1077,7 +1077,7 @@ export default function handler(req, res) {
       name: "lickitung",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Lickitung.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1127,7 +1127,7 @@ export default function handler(req, res) {
       name: "chansey",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Chansey.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1147,7 +1147,7 @@ export default function handler(req, res) {
       name: "kangaskhan",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kangaskhan.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1277,7 +1277,7 @@ export default function handler(req, res) {
       name: "tauros",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tauros.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1317,7 +1317,7 @@ export default function handler(req, res) {
       name: "ditto",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ditto.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1327,7 +1327,7 @@ export default function handler(req, res) {
       name: "eevee",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Eevee.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1367,7 +1367,7 @@ export default function handler(req, res) {
       name: "porygon",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Porygon.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1427,10 +1427,10 @@ export default function handler(req, res) {
       name: "snorlax",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Snorlax.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
-      resistance: "Normal",
+      resistance: "None",
       type2: ["normal"],
     },
     {
@@ -1607,7 +1607,7 @@ export default function handler(req, res) {
       name: "sentret",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Sentret.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1617,7 +1617,7 @@ export default function handler(req, res) {
       name: "furret",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Furret.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -1627,7 +1627,7 @@ export default function handler(req, res) {
       name: "hoothoot",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Hoothoot.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Lightning",
       resistance: "Fighting",
@@ -1637,7 +1637,7 @@ export default function handler(req, res) {
       name: "noctowl",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Noctowl.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Lightning",
       resistance: "Fighting",
@@ -1897,7 +1897,7 @@ export default function handler(req, res) {
       name: "aipom",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Aipom.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2057,7 +2057,7 @@ export default function handler(req, res) {
       name: "dunsparce",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Dunsparce.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2157,7 +2157,7 @@ export default function handler(req, res) {
       name: "teddiursa",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Teddiursa.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2167,7 +2167,7 @@ export default function handler(req, res) {
       name: "ursaring",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Ursaring.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2327,7 +2327,7 @@ export default function handler(req, res) {
       name: "porygon2",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Porygon2.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2337,7 +2337,7 @@ export default function handler(req, res) {
       name: "stantler",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Stantler.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2347,7 +2347,7 @@ export default function handler(req, res) {
       name: "smeargle",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Smeargle.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2407,7 +2407,7 @@ export default function handler(req, res) {
       name: "miltank",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Miltank.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2417,7 +2417,7 @@ export default function handler(req, res) {
       name: "blissey",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Blissey.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2627,7 +2627,7 @@ export default function handler(req, res) {
       name: "zigzagoon",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Zigzagoon.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
@@ -2637,7 +2637,7 @@ export default function handler(req, res) {
       name: "linoone",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Linoone.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
       resistance: "None",
