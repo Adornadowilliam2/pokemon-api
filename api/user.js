@@ -656,7 +656,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machop.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["brown", "lightbrown"],
+      color: ["brown", "burlywood"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
@@ -665,8 +665,8 @@ export default function handler(req, res) {
       name: "machoke",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machoke.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["brown", "lightbrown"],
+        type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
+        color: ["brown", "burlywood"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
@@ -676,7 +676,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Machamp.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fighting.png?raw=true",
-      color: ["brown", "lightbrown"],
+      color: ["brown", "burlywood"],
       weakness: "Psychic",
       resistance: "Fighting",
       type2: ["fighting"],
