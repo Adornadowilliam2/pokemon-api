@@ -2516,7 +2516,7 @@ export default function handler(req, res) {
     {
       name: "treecko",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Treecko.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Treecko.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
@@ -2526,7 +2526,7 @@ export default function handler(req, res) {
     {
       name: "grovyle",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Grovyle.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Grovyle.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
@@ -2536,7 +2536,7 @@ export default function handler(req, res) {
     {
       name: "sceptile",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Sceptile.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Sceptile.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
@@ -2546,7 +2546,7 @@ export default function handler(req, res) {
     {
       name: "torchic",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Torchic.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Torchic.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "lightcoral"],
       weakness: "Water",
@@ -2556,7 +2556,7 @@ export default function handler(req, res) {
     {
       name: "combusken",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Combusken.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Combusken.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "lightcoral"],
       weakness: "Water",
@@ -2566,7 +2566,7 @@ export default function handler(req, res) {
     {
       name: "blaziken",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Blaziken.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Blaziken.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
       color: ["red", "lightcoral"],
       weakness: "Water",
@@ -2576,7 +2576,7 @@ export default function handler(req, res) {
     {
       name: "mudkip",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mudkip.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Mudkip.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Lightning",
@@ -2586,7 +2586,7 @@ export default function handler(req, res) {
     {
       name: "marshtomp",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Marshtomp.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Marshtomp.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Grass",
@@ -2596,7 +2596,7 @@ export default function handler(req, res) {
     {
       name: "swampert",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Swampert.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Swampert.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/water.png?raw=true",
       color: ["blue", "lightblue"],
       weakness: "Grass",
@@ -2606,7 +2606,7 @@ export default function handler(req, res) {
     {
       name: "poochyena",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Poochyena.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Poochyena.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/darkness.png?raw=true",
       color: ["purple", "mediumpurple"],
       weakness: "Grass",
@@ -2616,7 +2616,7 @@ export default function handler(req, res) {
     {
       name: "mightyena",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Mightyena.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Mightyena.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/darkness.png?raw=true",
       color: ["purple", "mediumpurple"],
       weakness: "Grass",
@@ -2626,7 +2626,7 @@ export default function handler(req, res) {
     {
       name: "zigzagoon",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Zigzagoon.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Zigzagoon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
@@ -2636,7 +2636,7 @@ export default function handler(req, res) {
     {
       name: "linoone",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Linoone.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Linoone.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/colorless.png?raw=true",
       color: ["pink", "lightpink"],
       weakness: "Fighting",
@@ -2646,7 +2646,7 @@ export default function handler(req, res) {
     {
       name: "wurmple",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Wurmple.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Wurmple.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
@@ -2656,7 +2656,7 @@ export default function handler(req, res) {
     {
       name: "silcoon",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/images/Silcoon.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Silcoon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
@@ -2666,14 +2666,13 @@ export default function handler(req, res) {
     {
       name: "beautifly",
       image:
-        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/images/Beautifly.png?raw=true",
+        "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Beautifly.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/grass.png?raw=true",
       color: ["green", "lightgreen"],
       weakness: "Fire",
       resistance: "Fighting",
       type2: ["bug"],
     },
-
   ];
   res.status(200).json(pokemonInfo);
 }
