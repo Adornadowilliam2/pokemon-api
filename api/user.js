@@ -996,7 +996,7 @@ export default function handler(req, res) {
       name: "voltorb",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Voltorb.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Steel",
@@ -1006,7 +1006,7 @@ export default function handler(req, res) {
       name: "electrode",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Electrode.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Steel",
@@ -1247,7 +1247,7 @@ export default function handler(req, res) {
       name: "electabuzz",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Electabuzz.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -1347,7 +1347,7 @@ export default function handler(req, res) {
       name: "jolteon",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Jolteon.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -1447,7 +1447,7 @@ export default function handler(req, res) {
       name: "zapdos",
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Zapdos.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Lightning",
       resistance: "Fighting",
@@ -1697,7 +1697,7 @@ export default function handler(req, res) {
       name: "chinchou",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Chinchou.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Steel",
@@ -1707,7 +1707,7 @@ export default function handler(req, res) {
       name: "lanturn",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Lanturn.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Steel",
@@ -1717,7 +1717,7 @@ export default function handler(req, res) {
       name: "pichu",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Pichu.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -1787,7 +1787,7 @@ export default function handler(req, res) {
       name: "mareep",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Mareep.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -1797,7 +1797,7 @@ export default function handler(req, res) {
       name: "flaaffy",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Flaaffy.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -1807,7 +1807,7 @@ export default function handler(req, res) {
       name: "ampharos",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Ampharos.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -2387,7 +2387,7 @@ export default function handler(req, res) {
       name: "elekid",
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Elekid.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
@@ -2424,7 +2424,7 @@ export default function handler(req, res) {
     {
       name: "raikou",
       image: "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raikou.png?raw=true",
-      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/lightning.png?raw=true",
+      type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/electric.png?raw=true",
       color: ["yellow", "lightyellow"],
       weakness: "Fighting",
       resistance: "Metal",
