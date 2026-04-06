@@ -2058,7 +2058,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Dunsparce.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+  color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
