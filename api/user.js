@@ -1078,7 +1078,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Lickitung.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1128,7 +1128,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Chansey.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1148,7 +1148,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Kangaskhan.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1278,7 +1278,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Tauros.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1318,7 +1318,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ditto.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1328,7 +1328,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Eevee.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -1368,7 +1368,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Porygon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
