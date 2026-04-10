@@ -156,7 +156,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgey.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Electric",
       resistance: "Normal",
       type2: ["normal", "flying"],
@@ -166,7 +166,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeotto.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Electric",
       resistance: "Normal",
       type2: ["normal", "flying"],
@@ -176,7 +176,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Pidgeot.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Electric",
       resistance: "Normal",
       type2: ["normal", "flying"],
@@ -186,7 +186,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Rattata.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Ghost",
       type2: ["normal"],
@@ -196,7 +196,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Raticate.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Ghost",
       type2: ["normal"],
@@ -206,7 +206,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Spearow.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Electric",
       resistance: "Ghost",
       type2: ["normal", "flying"],
@@ -216,7 +216,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Fearow.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/flying.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Electric",
       resistance: "Ghost",
       type2: ["normal", "flying"],
@@ -386,7 +386,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Jigglypuff.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Dark",
       type2: ["normal", "fairy"],
@@ -396,7 +396,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Wigglytuff.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Dark",
       type2: ["normal", "fairy"],
@@ -516,7 +516,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Meowth.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Dark",
       type2: ["normal"],
@@ -526,7 +526,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Persian.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "Dark",
       type2: ["normal"],
@@ -2048,7 +2048,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Forretress.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/metal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fire",
       resistance: "Psychic",
       type2: ["bug", "steel"],
@@ -2078,7 +2078,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Steelix.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/metal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fire",
       resistance: "Psychic",
       type2: ["steel", "ground"],
@@ -2118,7 +2118,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Scizor.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/metal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fire",
       resistance: "Psychic",
       type2: ["bug", "steel"],
@@ -2268,7 +2268,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen2/blob/main/Skarmory.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/metal.png?raw=true",
-      color: ["gray", "lightgray"],
+      color: ["gray", "wheat"],
       weakness: "Fire",
       resistance: "Fighting",
       type2: ["steel", "flying"],
@@ -2628,7 +2628,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Zigzagoon.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
@@ -2638,7 +2638,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-gen3/blob/main/Linoone.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/normal.png?raw=true",
-      color: ["pink", "lightpink"],
+      color: ["gray", "wheat"],
       weakness: "Fighting",
       resistance: "None",
       type2: ["normal"],
