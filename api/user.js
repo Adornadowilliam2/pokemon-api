@@ -366,7 +366,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Vulpix.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
-      color: ["red", "lightred"],
+      color: ["red", "orange"],
       weakness: "Water",
       resistance: "Fire",
       type2: ["fire"],
@@ -376,7 +376,7 @@ export default function handler(req, res) {
       image:
         "https://github.com/Adornadowilliam2/pokemon-api/blob/images/Ninetales.png?raw=true",
       type: "https://github.com/Adornadowilliam2/pokemon-api/blob/energy/fire.png?raw=true",
-      color: ["red", "lightred"],
+      color: ["red", "orange"],
       weakness: "Water",
       resistance: "Fire",
       type2: ["fire"],
